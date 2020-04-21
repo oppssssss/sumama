@@ -1,2 +1,0 @@
-# Sumama
-My Blog
